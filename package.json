@@ -1,0 +1,28 @@
+{
+  "name": "apinotification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhtrung01/apinotification.git"
+  },
+  "keywords": [
+    "nodejs",
+    "thanhtrung01",
+    "api",
+    "android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "bugs": {
+    "url": "https://github.com/thanhtrung01/apinotification/issues"
+  },
+  "homepage": "https://github.com/thanhtrung01/apinotification#readme"
+}
